@@ -24,8 +24,6 @@ st.set_page_config(
 )
 
 # ============================================================
-# CUSTOM CSS FOR PROFESSIONAL LOOK
-# ============================================================
 st.markdown("""
     <style>
     .main-header {
